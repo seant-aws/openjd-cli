@@ -1,3 +1,10 @@
+## 0.9.0 (2026-11-04)
+
+
+### Features
+* Require openjd-model 0.15 and openjd-sessions 0.15 ([`6ab4054`](https://github.com/seant-aws/openjd-cli/commit/6ab40549a785719dc4b34604baba3c638ccecc27))
+
+
 ## 0.8.0 (2026-10-08)
 
 
