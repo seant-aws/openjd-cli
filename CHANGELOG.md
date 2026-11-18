@@ -1,3 +1,10 @@
+## 0.9.0 (2026-11-18)
+
+
+### BREAKING CHANGES
+* openjd-cli now requires openjd-model 0.14.x and openjd-sessions 0.14.x (previously 0.13.x). If your environment pins these packages, upgrade them to 0.14 to install this release. (#12)
+
+
 ## 0.8.0 (2026-10-08)
 
 
