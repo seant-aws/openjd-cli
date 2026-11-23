@@ -1,3 +1,10 @@
+## 0.11.0 (2026-11-23)
+
+
+### BREAKING CHANGES
+* openjd-cli now requires openjd-model 0.17.x and openjd-sessions 0.16.x. If your environment pins older versions of these libraries, for example because other tools share the same Python environment, upgrade them to install this release. (#16)
+
+
 ## 0.10.0 (2026-11-20)
 
 
